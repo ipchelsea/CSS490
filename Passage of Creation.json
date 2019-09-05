@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "CSS 490 Passage Of Creation",
+"dataUrl": "Passage of Creation.data.unityweb",
+"wasmCodeUrl": "Passage of Creation.wasm.code.unityweb",
+"wasmFrameworkUrl": "Passage of Creation.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
